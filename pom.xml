@@ -8,7 +8,7 @@
 		<version>2.2.11.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ptm</groupId>
+	<groupId>ptm-microservices</groupId>
 	<artifactId>ptm-common</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
