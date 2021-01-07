@@ -1,4 +1,4 @@
-package com.ptm.common.feign.login;
+package ptm.common.feign.login;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import com.ptm.common.service.ServiceResponse;
+import ptm.common.service.ServiceResponse;
 
 @Component
 @FeignClient(name = "ptm-login", path = "/ptm-login", configuration = FeignClietConfiguration.class)

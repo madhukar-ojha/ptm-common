@@ -1,4 +1,4 @@
-package com.ptm.common.feign.login;
+package ptm.common.feign.login;
 
 public class FeignClietConfiguration {
 	/*

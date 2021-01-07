@@ -1,4 +1,4 @@
-package com.ptm.common.vo;
+package ptm.common.vo;
 
 import java.io.Serializable;
 

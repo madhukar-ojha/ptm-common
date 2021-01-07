@@ -1,4 +1,4 @@
-package com.ptm.common.service;
+package ptm.common.service;
 
 import java.util.Collections;
 import java.util.Map;

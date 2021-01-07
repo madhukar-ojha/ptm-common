@@ -1,4 +1,4 @@
-package com.ptm.common.service;
+package ptm.common.service;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

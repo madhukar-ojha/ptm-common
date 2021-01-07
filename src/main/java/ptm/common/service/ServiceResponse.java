@@ -1,4 +1,4 @@
-package com.ptm.common.service;
+package ptm.common.service;
 
 import org.springframework.http.HttpStatus;
 
